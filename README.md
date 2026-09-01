@@ -1,80 +1,75 @@
-### Hi there, I'm Vanessa Montiel 👋
-#### Google Developer Expert (AI/ML) | CEO at Montiel Global Strategic Alliance ( VANGUARDIA MGSA)
+<div align="center">
 
-I am a **Lead Systems Architect** and **GovTech Strategist** focused on building **Sovereign & Ethical AI** solutions for operational security. My work bridges the gap between critical infrastructure and advanced cognitive architectures.
+# 👩‍🚀 Vanessa Montiel Ruiz
+### **Founder & CEO @ Vanguardia MGSA | Sovereign AI & Deep Tech Architect**
+**Google Developer Expert (AI/ML) • NASA OSDR AWG Researcher • Oxford Alumna**
 
-# MGSACore Framework
-### Enterprise LLM Interpretability, Governance & Cost Efficiency Platform
-*Developed by **Vanguardia MGSA***
+<br/>
 
----
-
-## Overview
-**MGSACore** is an open-architecture verification framework designed to inspect, audit, and optimize Foundation Large Language Models (LLMs). Powered by **Sequence Salience** and the **Learning Interpretability Tool (LIT)**, MGSACore provides token-by-token explainability, mitigating hallucinations and bias while reducing inference costs by up to 40%.
-
----
-
-## Key Modules
-
-### 🛡️ MGSACore Shield (Safety & Governance)
-* **Attention Salience Heatmaps:** Visualizes which input tokens drive model outputs to identify bias and discriminatory behavior.
-* **Jailbreak & Injection Hardening:** Stress-tests autonomous agents against malicious prompt overrides.
-* **Compliance Ready:** Structured to generate technical dossiers aligned with the **EU AI Act** and **ISO 42001** standards.
-* **Hallucination Prevention:** Evaluates retrieval grounding in RAG systems to ensure research-grade data integrity.
-
-### ⚡ MGSACore Optima (Cost & Latency QA)
-* **Intelligent Prompt Trimming:** Prunes redundant instructions in system prompts without accuracy degradation.
-* **RAG Context Compression:** Filters irrelevant vector chunks to lower token latency and per-call API expenses.
-* **Open Architecture Migration:** Supports local fine-tuning and deployment on open foundation models (e.g., Google Gemma).
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5796--5881-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5796-5881)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa_Montiel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-montiel-ruiz)
+[![GitHub](https://img.shields.io/badge/GitHub-Montiel06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Montiel06)
+[![Email](https://img.shields.io/badge/Gmail-vaaneehmr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaaneehmr@gmail.com)
 
 ---
 
-## Quickstart (Interactive Notebook)
+</div>
 
-You can explore the base interpretability implementation using the official Google Colab environment:
+## 🔬 About Me
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/responsible/lit_gemma.ipynb)
+Architecting deterministic, sovereign AI systems and deep tech solutions at the intersection of **clinical AI**, **space biophysics**, and **edge computing**:
 
----
-
-## Scientific & Open Science Applications
-MGSACore is structured for open data extraction, bioinformatic metadata verification, and scientific literature mining, supporting collaborative frameworks such as the **NASA Open Science Data Repository (OSDR) Analysis Working Groups (AWGs)**.
-
----
-
-## Contact & Commercial Inquiries
-For audits, pilot programs, or licensing:
-* **Entity:** Vanguardia MGSA
-* **Product:** MGSACore Suite
-* **Framework:** Audit • Explain • Optimize
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22020263.svg)](https://doi.org/10.5281/zenodo.22020263)
-
-
-### 🚀 Current Focus: Vanguardia OS
-> *The Intelligence Layer for Operational Security.*
-
-I am currently architecting **Vanguardia OS**, an AI-driven operating framework designed to mitigate the **65% of operational failures** caused by human cognitive bias in high-stakes industries (Health, Gaming, GovTech).
-
-* **Architecture:** Built on **Google Cloud's Model Context Protocol (MCP)** for seamless agent interoperability.
-* **Methodology:** Validated via **Google for Startups: Prompt to Prototype**.
-* **Roadmap 2026:** Deploying for the **FIFA World Cup 2026™ (Akron Stadium)** and showcasing at the **Global Games Show (Riyadh, Saudi Arabia)**.
+- 🔭 **Research & Working Groups**: Active Researcher across **NASA Open Science Data Repository (OSDR)** Analysis Working Groups (AI/ML, Space CDSS, Brain AWG).
+- 🧠 **Clinical AI & Hallucination Mitigation**: Creator of [MGSACore](https://github.com/Montiel06/MGSACore), benchmarking token-level attention salience & gradient attribution against clinical ground-truth annotations (ClinVar, TCGA).
+- 🚀 **Space Systems & Edge Autonomy**: Developing Local Agentic Autonomy (L-Twins) architectures on CUDA edge hardware for extreme lunar surface dynamics and Artemis mission operations.
+- 🏛️ **Background**: Former Registered Nurse & Clinical Specialist turned AI Systems Architect; Oxford Alumna.
 
 ---
 
-### 🛠 Tech Stack & Tools
-* **Cloud & Infrastructure:** Google Cloud Platform (GCP), Vertex AI, Firebase.
-* **AI/ML:** Gemini Models, TensorFlow, Keras, Python.
-* **Architecture:** Microservices, Event-Driven Systems, Sovereign AI Frameworks.
+## 🛠️ Technical Ecosystem & Stack
+
+### **AI / ML & Deep Tech**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CUDA / GPU Computing](https://img.shields.io/badge/CUDA_Edge-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### **Domains & Methodologies**
+![Clinical Decision Support](https://img.shields.io/badge/Domain-Clinical_CDSS-blue?style=flat-square)
+![Genomics & Multi-Omics](https://img.shields.io/badge/Domain-Genomics_%26_Multi--Omics-darkgreen?style=flat-square)
+![Open Science SPD-41a](https://img.shields.io/badge/NASA-Open_Science_SPD--41a-red?style=flat-square)
+![Deterministic AI](https://img.shields.io/badge/Architecture-Sovereign_%26_Deterministic_AI-purple?style=flat-square)
 
 ---
 
-### 🏆 Milestones & Impact
-- **Google Developer Expert (GDE):** Recognized for expertise in AI/ML.
-- **Project CIE (Chile):** Developed the "Central de Inteligencia para Emergencias" using Generative AI for real-time crisis response.
-- **Teens in AI:** Organizing Techathons to foster the next generation of ethical AI developers at UDG.
+## 🧪 Featured Research & Key Projects
+
+| Repository / Work | Focus & Architecture | Links |
+| :--- | :--- | :--- |
+| **MGSACore** | Token-level attention salience & deterministic validation pipeline mitigating LLM hallucinations in biomedical data. | [![GitHub Repo](https://img.shields.io/badge/Repo-Montiel06%2FMGSACore-181717?style=flat-square&logo=github)](https://github.com/Montiel06/MGSACore) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.13362039-blue?style=flat-square)](https://doi.org/10.5281/zenodo.13362039) |
+| **Lunar L-Twins** | Edge Computing (CUDA) local physical digital twins for predictive regolith terrain avoidance and autonomous telemetry. | [![OSDR Integration](https://img.shields.io/badge/NASA-OSDR_AWG-informational?style=flat-square)](https://osdr.nasa.gov/) |
+| **Voynich Manuscript NLP** | Computational modeling and technical grammar parsing of 15th-century Andalusian medical pharmacopeia. | [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22214410-blue?style=flat-square)](https://doi.org/10.5281/zenodo.22214410) |
 
 ---
 
-### 📫 Connect with Me
-* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/vanessa-montiel-325602228) 💼 *(Connect for business inquiries & Vanguardia OS demos)*
+## 📈 GitHub & Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Montiel06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montiel06&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+Open to high-impact research collaborations in Sovereign AI, Clinical Genomics, and Space Systems Autonomy.
+
+**[📬 Contact via Email](mailto:vaaneehmr@gmail.com)** • **[🔗 Connect on LinkedIn](https://www.linkedin.com/in/vanessa-montiel-ruiz)** • **[🆔 View ORCID Profile](https://orcid.org/0009-0007-5796-5881)**
+
+</div>
